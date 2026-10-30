@@ -1,0 +1,14 @@
+# DiskLens local diagnostics
+DiskLens_Hata.log
+DiskLens_Baslatma.log
+DiskLens_Debug.log
+
+# Local exports and archives
+*.zip
+*.7z
+
+# Windows / editor noise
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
