@@ -12,6 +12,9 @@
 **Find what's taking up space. Understand your storage. Take control.**  
 **Diskinizde neyin yer kapladığını bulun. Depolamanızı anlayın, kontrolü elinize alın.**
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/843e815b-5bad-481c-9c25-e0c229f5ec92" />
+
+
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![WPF](https://img.shields.io/badge/UI-WPF-6B4FBB?style=for-the-badge)
